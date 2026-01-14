@@ -29,7 +29,7 @@ to be installed on the system.
 ---
 
 ## Download
-👉 https://github.com/SunnySaha/sqlite-merge-db/tree/master/releases
+👉 https://github.com/SunnySaha/sqlite-merge-db/releases
 
 ---
 
